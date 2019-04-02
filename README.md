@@ -8,3 +8,5 @@ For the eventportal design the following is required:
 6) a accent color contrast
 
 see the files and folders in this respository for more details
+
+![backgrounds overview image](overview.jpg)
